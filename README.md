@@ -17,7 +17,7 @@ Enable execution of PowerShell scripts:
 
 Execute the installation script as Admin:
 
-    PS > .\Install-Managaged-Hosts-File.ps1
+    PS > .\Install-Managed-Hosts-File.ps1
 
 ## Usage 
 	
